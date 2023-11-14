@@ -1,0 +1,11 @@
+myzen-subtheme-global-css:
+  version: 1.x
+  css:
+    theme:
+      css/myzen-subtheme.css: {}
+
+myzen-subtheme-global-js:
+  js:
+    js/myzen-subtheme.js: {}
+  dependencies:
+    - core/jquery

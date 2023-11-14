@@ -1,0 +1,6 @@
+name: 'My Zen Sub-theme'
+type: theme
+description: 'Custom sub-theme based on Zen.'
+base theme: zen
+core_version_requirement: ^10 || ^11
+package: Custom
